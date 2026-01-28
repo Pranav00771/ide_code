@@ -1,0 +1,11 @@
+class add_two:
+ def add(x, y):
+   return x+y
+
+if __name__=="__main__":
+  x=10
+  y=20
+  add_two_c = add_two
+  result= add_two_c.add(x, y)
+  print(result)
+ 
