@@ -1,0 +1,5 @@
+function add_button1(){
+  var btn1 = document.createElement("button");
+ btn1.innerHTML ="Button1";
+document.body.appendChild(btn1);
+}

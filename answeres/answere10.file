@@ -1,0 +1,8 @@
+<script language="javascript">
+function add_div(){
+  var div1=document.createElement("div");
+var p1=document.createElement("p");
+ p1.innerHTML="welcome to javascript";
+div1.appendChild(p1);
+}
+</script>

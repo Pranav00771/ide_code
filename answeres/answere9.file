@@ -1,0 +1,9 @@
+import os
+
+class create_folder:
+ def folder():
+   os.system("mkdir ceo")
+  
+if __name__=="__main__":
+  cf=create_folder
+  cf.folder()

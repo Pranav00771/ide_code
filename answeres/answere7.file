@@ -1,0 +1,7 @@
+<script language="javascript">
+function add_image(){
+  var img1=document.getElementById("img_id");
+ img1.src="image.jpg";
+}
+</script>
+<img id="img_id"></img>

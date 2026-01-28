@@ -1,0 +1,6 @@
+object hello{
+  def main(args : String)={
+   val str:String="ceo"
+  println(str)
+ }
+}

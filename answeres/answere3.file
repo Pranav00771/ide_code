@@ -1,0 +1,8 @@
+object add_two{
+  def add_string()={
+  val x:String="hello"
+  val y:String="world"
+  val z:String= x+y
+  println(z)
+ }
+}

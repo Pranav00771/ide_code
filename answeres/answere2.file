@@ -1,0 +1,13 @@
+class String_Text{
+  public void Define_String(){
+   String str="hello world";
+   System.out.println(str);
+ }
+}
+public class log{
+  public static void main(String args[])
+ {
+  String_Text text = new String_Text();
+  text.Define_String();
+}
+}
